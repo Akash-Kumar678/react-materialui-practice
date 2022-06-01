@@ -1,0 +1,54 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+.navsearch{
+  text-align: right;
+}
+.carsl{
+  background-image: url('./components/images/banner.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  
+}
+.carsltext{
+  margin-left: 5%;
+}
+.mainblogs{
+  margin-left: 1%;
+}
+.card{
+  display:flex; 
+  flex-direction:row;
+}
+.maincont{
+  display:flex; 
+  flex-direction:row;
+}
+.navigator{
+  color: black;
+  font-weight: bold;
+}
+.navhead{
+  color: blue;
+  font-weight: bold;
+}
+.navblog{
+  text-align: center;
+}
+.boxbg{
+  background-color: gray;
+}
+.footer{
+  text-align:  center;
+}
